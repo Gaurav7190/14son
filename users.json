@@ -1,0 +1,71 @@
+[{
+        "id": 1,
+        "first_name": "Dion",
+        "last_name": "Edowes",
+        "email": "dedowes0@mashable.com",
+        "gender": "Male"
+    },
+    {
+        "id": 2,
+        "first_name": "Haslett",
+        "last_name": "Alesio",
+        "email": "halesio1@sourceforge.net",
+        "gender": "Male"
+    },
+    {
+        "id": 3,
+        "first_name": "Kareem",
+        "last_name": "Banishevitz",
+        "email": "kbanishevitz2@gnu.org",
+        "gender": "Genderfluid"
+    },
+    {
+        "id": 4,
+        "first_name": "Enos",
+        "last_name": "MacCallister",
+        "email": "emaccallister3@phpbb.com",
+        "gender": "Male"
+    },
+    {
+        "id": 5,
+        "first_name": "Lacy",
+        "last_name": "Herche",
+        "email": "lherche4@merriam-webster.com",
+        "gender": "Female"
+    },
+    {
+        "id": 6,
+        "first_name": "Ara",
+        "last_name": "Diver",
+        "email": "adiver5@nationalgeographic.com",
+        "gender": "Male"
+    },
+    {
+        "id": 7,
+        "first_name": "Amil",
+        "last_name": "Cadwell",
+        "email": "acadwell6@infoseek.co.jp",
+        "gender": "Female"
+    },
+    {
+        "id": 8,
+        "first_name": "Zeke",
+        "last_name": "Lauritzen",
+        "email": "zlauritzen7@dmoz.org",
+        "gender": "Male"
+    },
+    {
+        "id": 9,
+        "first_name": "Beau",
+        "last_name": "Baudassi",
+        "email": "bbaudassi8@thetimes.co.uk",
+        "gender": "Male"
+    },
+    {
+        "id": 10,
+        "first_name": "Gerald",
+        "last_name": "Okroy",
+        "email": "gokroy9@bravesites.com",
+        "gender": "Polygender"
+    }
+]
